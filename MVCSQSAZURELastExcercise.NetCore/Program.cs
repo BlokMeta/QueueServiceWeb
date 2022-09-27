@@ -1,3 +1,4 @@
+using SenderQueueMessageServices.NetCore;
 using SenderQueueMessageServices.NetCore.Configuration;
 using SenderQueueMessageServices.NetCore.Services;
 
